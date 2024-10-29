@@ -1,2 +1,4 @@
 # Github-Project-1
-My first Projecy
+
+Title:
+Members: Apostolis Karapatis / Nikos Marakis
