@@ -1,6 +1,6 @@
 # 📊 RMF Market-Basket Analysis for e-Commerce SuperStore
 
-## Authors: Karapatis Apostolis / Marakis Nikolaos
+## Authors: Apostolis Karapatis / Nikolaos Marakis
 
 ## 📌 Project Overview  
 This project involves a comprehensive market-basket analysis for an e-Commerce SuperStore. Using six different CSV files, the team focused on identifying patterns and insights that can enhance marketing strategies and customer purchasing experiences.
